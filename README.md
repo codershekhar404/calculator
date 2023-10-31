@@ -4,7 +4,7 @@
 
 https://codershekhar404.github.io/calculator/
 
-![Screenshot](https://raw.githubusercontent.com/codershekhar404/calculator/Home.png)
+![Screenshot](https://raw.githubusercontent.com/codershekhar404/calculator/main/Home.png)
 
 ## Features
 
