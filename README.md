@@ -20,7 +20,7 @@ https://codershekhar404.github.io/calculator/
 
 ## About Project
 
-[**Thapa Technical Codefest**](https://codefest.thapaonlineclass.com/)
+[**Technohacks**](https://technohacks.co.in/)
 
 This project is a web-based calculator that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator is designed to be responsive and works on various screen sizes, making it accessible to a wide range of users.
 
